@@ -1,0 +1,127 @@
+{
+  "smoking_0072.jpg93059": {
+    "filename": "smoking_0072.jpg",
+    "size": 93059,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            440,
+            552,
+            520,
+            458,
+            449,
+            487,
+            650,
+            650,
+            655,
+            641,
+            663,
+            668,
+            614,
+            596,
+            581,
+            574,
+            565,
+            585,
+            601,
+            619,
+            596,
+            623,
+            610,
+            574,
+            447,
+            436
+          ],
+          "all_points_y": [
+            431,
+            529,
+            572,
+            692,
+            733,
+            800,
+            795,
+            746,
+            706,
+            679,
+            666,
+            659,
+            621,
+            603,
+            603,
+            612,
+            605,
+            556,
+            567,
+            554,
+            536,
+            503,
+            483,
+            512,
+            409,
+            424
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0079.jpg28121": {
+    "filename": "smoking_0079.jpg",
+    "size": 28121,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            396,
+            412,
+            472,
+            460
+          ],
+          "all_points_y": [
+            305,
+            307,
+            432,
+            439
+          ]
+        },
+        "region_attributes": {
+          "cigarette": ""
+        }
+      }
+    ],
+    "file_attributes": {}
+  },
+  "smoking_0084.jpg75313": {
+    "filename": "smoking_0084.jpg",
+    "size": 75313,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            113,
+            30,
+            45,
+            132
+          ],
+          "all_points_y": [
+            309,
+            426,
+            439,
+            313
+          ]
+        },
+        "region_attributes": {
+          "cigarette": "fumer"
+        }
+      }
+    ],
+    "file_attributes": {}
+  }
+}
